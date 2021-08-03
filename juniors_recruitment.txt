@@ -1,0 +1,46 @@
+create table junior(
+id int not null auto_increment primary key,
+name varchar(40) not null,
+phone varchar(15) not null,
+parent_phone varchar(15) not null,
+facebook_acc varchar(60) not null,
+age int not null,
+school varchar(100) not null,
+address varchar(256) not null,
+educational_adminstration varchar(256) not null,
+know_stp varchar(256) 
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exchange Nibbles
